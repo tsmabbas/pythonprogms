@@ -1,0 +1,6 @@
+print ("hello world")
+print("this is a \n multi-line string")
+print("this line has a \t tab")
+print("this line has a backslash as backslash \\")
+print("This is unicode for backslash: \U0001F604")
+print("string1"," " "string2", "string3", sep=' ')
